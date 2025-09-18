@@ -2,7 +2,16 @@
 
 **`Desenvolvedor Back-end`**
 
-Desenvolvedor Python em constante aprendizado, focado em escrever código limpo, eficiente e escalável. Apaixonado por resolver problemas com tecnologia, aprimorar boas práticas e transformar ideias em projetos reais.
+Desenvolvedor Python em constante evolução, dedicado a escrever código limpo, eficiente e escalável. Focado em aprimorar continuamente minhas habilidades, resolver problemas complexos com tecnologia e aplicar boas práticas para transformar ideias em projetos reais de impacto.
+
+---
+
+### 📬 Entre em Contato
+
+Se quiser conversar, colaborar em projetos ou tirar dúvidas, entre em contato pelo e-mail:  
+**pedrohenriquedswork@gmail.com**  
+
+Ou conecte-se comigo através dos meus perfis:  
 
 <p align="left">
     <a href="https://www.linkedin.com/in/pedro-henrique-dos-santos-419078375/" target="_blank">
