@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8B0000"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=006400"/>
 
 <br>
 
@@ -11,13 +11,13 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=8B0000&width=900&size=22&center=true&lines=+Back-end+Developer;Passionate+about+coding+and+learning;Always+seeking+to+improve" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=006400&width=900&size=22&center=true&lines=+Back-end+Developer;Passionate+about+coding+and+learning;Always+seeking+to+improve" alt="Typing SVG"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Desenvolvedor Apaixonado Por Inovações-black" />
+  <img src="https://img.shields.io/badge/Desenvolvedor Apaixonado Por Inovações-006400" />
 </div>
       
 <br>
@@ -51,8 +51,8 @@
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:pedrohenriquedswork@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/pedro-henrique-dos-santos-419078375/)
+  [![Gmail](https://img.shields.io/badge/Gmail-006400?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:pedrohenriquedswork@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-006400?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/pedro-henrique-dos-santos-419078375/)
 </div>
 
 </details>
@@ -60,9 +60,9 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fpedrohenriquedsdev&s=30&c=8B0000&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fpedrohenriquedsdev&s=30&c=006400&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=100&section=footer"/>
