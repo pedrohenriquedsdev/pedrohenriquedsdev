@@ -1,63 +1,68 @@
-# 🧑‍💻 Pedro Henrique dos Santos
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8B0000"/>
 
-**`Desenvolvedor Back-end`**
+<br>
 
-Desenvolvedor Python em constante evolução, dedicado a escrever código limpo, eficiente e escalável. Focado em aprimorar continuamente minhas habilidades, resolver problemas complexos com tecnologia e aplicar boas práticas para transformar ideias em projetos reais de impacto.
+<div align="center">
+  <b>Pedro Henrique dos Santos</b>
+  <samp>
+      <br>
+      <b>Inovando a cada linha</b>
+  </samp>
+</div>
 
----
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=8B0000&width=900&size=22&center=true&lines=+Back-end+Developer;Passionate+about+coding+and+learning;Always+seeking+to+improve" alt="Typing SVG"/>
+</div>
 
-### 📬 Entre em Contato
+<br>
 
-Se quiser conversar, colaborar em projetos ou tirar dúvidas, entre em contato pelo e-mail:  
-**pedrohenriquedswork@gmail.com**  
+<div align="center">
+  <img src="https://img.shields.io/badge/Desenvolvedor Apaixonado Por Inovações-black" />
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=pedrohenriquedsdev&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquedsdev&layout=compact&font=Iosevka&langs_count=16&theme=omni"/>
+</div>
 
-Ou conecte-se comigo através dos meus perfis:  
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+</div>
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/pedro-henrique-dos-santos-419078375/" target="_blank">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se comigo no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://www.instagram.com/pedrinh0u_?igsh=bTVtaWtkZm10N2wx&utm_source=qr" target="_blank">
-        <img 
-            alt="Instagram" 
-            title="Me siga no Instagram" 
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
-    <a href="https://www.youtube.com/@seu-usuario" target="_blank">
-        <img 
-            alt="YouTube" 
-            title="Inscreva-se no meu canal" 
-            src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-        />
-    </a>
-</p>
+<br>
+<br>
 
----
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
 
-### 🤖 Linguagens e Tecnologias
+<div align="center">
+  <samp>
+    <b>Contact me:</b>
+  </samp>
+  <br>
+  <br>
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+  [![Gmail](https://img.shields.io/badge/Gmail-8B0000?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:pedrohenriquedswork@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/pedro-henrique-dos-santos-419078375/)
+</div>
 
-<br/>
-<br/>
+</details>
 
+<br>
 
-  <img 
-      align="left" 
-      alt="Top Langs" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquedsdev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fpedrohenriquedsdev&s=30&c=8B0000&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+</div>
+
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer"/>
