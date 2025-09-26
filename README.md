@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=8B0000"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000"/>
 
 <br>
 
@@ -11,21 +11,21 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=8B0000&width=900&size=22&center=true&lines=+Back-end+Developer;Passionate+about+coding+and+learning;Always+seeking+to+improve" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=FF0000&width=900&size=22&center=true&lines=Back-end+Developer;Passionate+about+coding+and+learning;Always+seeking+to+improve" alt="Typing SVG"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Desenvolvedor Apaixonado Por Inovações-8B0000" />
+  <img src="https://img.shields.io/badge/Desenvolvedor Apaixonado Por Inovações-000000" />
 </div>
       
 <br>
 <br>
       
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=pedrohenriquedsdev&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquedsdev&layout=compact&font=Iosevka&langs_count=16&theme=omni"/>
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=pedrohenriquedsdev&show_icons=true&count_private=true&rank_icon=github&theme=dark&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquedsdev&layout=compact&font=Iosevka&langs_count=16&theme=dark"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
@@ -48,9 +48,4 @@
 
 <br>
 
-<div align="center">
-</div>
-
-<br>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
