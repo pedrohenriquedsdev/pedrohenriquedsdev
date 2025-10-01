@@ -14,7 +14,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=1E90FF&width=900&size=22&center=true&lines=Back-end+Developer;Passionate+about+coding+and+learning;Always+seeking+to+improve" alt="Typing SVG"/>
 </div>
 
-
 <br>
 
 <div align="center">
@@ -26,7 +25,7 @@
       
 <div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=pedrohenriquedsdev&show_icons=true&count_private=true&rank_icon=github&theme=dark&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquedsdev&layout=compact&font=Iosevka&langs_count=16&theme=dark"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquedsdev&layout=compact&font=Iosevka&langs_count=16&theme=dark&cache_seconds=1800"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
