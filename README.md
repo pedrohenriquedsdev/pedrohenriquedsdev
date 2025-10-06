@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Henrique+dos+Santos;I+am+a+Backend+Developer;I+work+with+Node.js+and+Databases)](https://git.io/typing-svg) 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrohenriquedsdev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=3600" alt="Pedro Henrique dos Santos github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquedsdev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&count_private=true&cache_seconds=3600" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrohenriquedsdev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&cache_seconds=0" alt="Pedro Henrique dos Santos github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquedsdev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&count_private=true&cache_seconds=0" />
 </div>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrohenriquedsdev&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -22,7 +22,7 @@
 ### 💻 Main Skills
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 
 ### 🛠 Tools
