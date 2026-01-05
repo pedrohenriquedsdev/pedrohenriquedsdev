@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4d4d&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Henrique+dos+Santos;I+am+a+Backend+Developer;I+work+with+Node.js+and+Databases)](https://git.io/typing-svg) 
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrohenriquedsdev&bg_color=000000&color=ff4d4d&line=ff6666&point=ff1a1a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
 <div align="center">
