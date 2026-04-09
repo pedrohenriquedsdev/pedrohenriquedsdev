@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pedro Henrique
 
-🚀 **Backend Developer in Training | C# | .NET**
+🚀 **Backend Developer in Training | C# | .NET**  
 🇧🇷 Brazil
 
 I'm a software development student at **Academia do Programador**, focused on building practical projects with **C# and .NET**.
@@ -24,21 +24,29 @@ My goal is to continuously improve as a developer by applying **clean code, prob
 
 ## 🧠 Currently Learning
 
-- 🧩 Programming Logic
-- 💻 C#
-- ⚙️ .NET
-- 🗄️ Data Handling
-- 🧱 Project Structure
-- 📚 Clean Code
-- 🔧 Git & GitHub
+- 🧩 Programming Logic  
+- 💻 C#  
+- ⚙️ .NET  
+- 🐍 Python  
+- 🗄️ Data Handling  
+- 🧱 Project Structure  
+- 📚 Clean Code  
+- 🔧 Git & GitHub  
+- 🖥️ Visual Studio (2022/2026)  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,git,github,vscode,visualstudio" />
 </p>
+
+**Ordem sugerida:**  
+- **C# & .NET** → principal foco  
+- **Python** → linguagem adicional  
+- **Git & GitHub** → versionamento  
+- **VS Code & Visual Studio** → IDEs  
 
 ---
 
@@ -52,8 +60,8 @@ My goal is to continuously improve as a developer by applying **clean code, prob
 
 ## 🎯 2026 Goals
 
-- ✅ Strengthen backend fundamentals
-- ✅ Build real-world .NET projects
-- ✅ Learn APIs and databases deeply
-- ✅ Improve software architecture skills
+- ✅ Strengthen backend fundamentals  
+- ✅ Build real-world .NET projects  
+- ✅ Learn APIs and databases deeply  
+- ✅ Improve software architecture skills  
 - ✅ Grow my developer brand online
