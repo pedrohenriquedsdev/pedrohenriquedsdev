@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pedro Henrique
 
-🚀 **Backend Developer in Training | C# | .NET**  
+🚀 **Backend Developer | C# | .NET**  
 🇧🇷 Brazil
 
 I'm a software development student at **Academia do Programador**, focused on building practical projects with **C# and .NET**.
