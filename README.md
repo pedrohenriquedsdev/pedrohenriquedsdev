@@ -1,67 +1,95 @@
-# Hi 👋, I'm Pedro Henrique
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=20&section=header"/>
 
-🚀 **Backend Developer | C# | .NET**  
-🇧🇷 Brazil
+<br>
 
-I'm a software development student at **Academia do Programador**, focused on building practical projects with **C# and .NET**.
+<div align="center">
+  
+  <b>`B A C K E N D  -  D E V E L O P E R`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Pedro Henrique</b>
+  </samp>
+</div>
 
-My goal is to continuously improve as a developer by applying **clean code, problem-solving, software architecture fundamentals, and real-world project development**.
+<div align="center" width="100%">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=00D2FF&width=900&size=22&center=true&lines=I+am+from+Brazil;Backend+Developer+Student;Focused+on+C%23+and+.NET;Building+efficient+solutions!" alt="Typing SVG"/>
+</div>
 
----
+<br>
+      
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pedrohenriquedsdev&show_icons=true&theme=tokyonight&count_private=true">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquedsdev&layout=compact&theme=tokyonight&count_private=true">
+</div>
 
-## 🌐 Connect with me
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
+</div>
 
-<p align="left">
-  <a href="https://github.com/pedrohenriquedsdev">
-    <img src="https://img.shields.io/badge/GitHub-PEDROHENRIQUEDSDEV-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/pedrohenriqueds-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-PEDRO%20HENRIQUE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<br>
+<br>
 
----
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info & Goals</b>
+      </samp>
+  </summary>
+  
+<br>
 
-## 🧠 Currently Learning
+##
 
-- 🧩 Programming Logic  
-- 💻 C#  
-- ⚙️ .NET  
-- 🐍 Python  
-- 🗄️ Data Handling  
-- 🧱 Project Structure  
-- 📚 Clean Code  
-- 🔧 Git & GitHub  
-- 🖥️ Visual Studio (2022/2026)  
+<br>
 
----
+<div align="center">
+  <samp>
+    <b>
+      My 2026 Focus:
+    </b>
+    <br>
+    Strengthen backend fundamentals | Build real-world .NET projects | API Development
+  </samp>
+  <br>
+  <br>
 
-## 🛠️ Tech Stack
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/pedrohenriqueds-dev/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/pedrohenriquedsdev)
+  
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,git,github,vscode,visualstudio" />
-</p>
+<div align="center">
+  <p align="center">
+      <samp>
+        🚀 <b>Currently Learning:</b> Academia do Programador ⊹ Clean Code ⊹ Architecture 🚀
+      </samp>
+  </p>
+</div>
+<br>
 
-**Ordem sugerida:**  
-- **C# & .NET** → principal foco  
-- **Python** → linguagem adicional  
-- **Git & GitHub** → versionamento  
-- **VS Code & Visual Studio** → IDEs  
+</details>
 
----
+##
 
-## 📊 GitHub Analytics
+<br>
 
-<p>
-  <img height="170" src="https://streak-stats.demolab.com?user=pedrohenriquedsdev&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=pedrohenriquedsdev&theme=tokyonight&hide_border=true" height="150" />
+  </p>
+  <p align="center">
+    <img align="center" src="https://komarev.com/ghpvc/?username=pedrohenriquedsdev&style=flat-square&color=00D2FF" />
+  </p> 
+</div>
 
----
+<br>
 
-## 🎯 2026 Goals
-
-- ✅ Strengthen backend fundamentals  
-- ✅ Build real-world .NET projects  
-- ✅ Learn APIs and databases deeply  
-- ✅ Improve software architecture skills  
-- ✅ Grow my developer brand online
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=20&section=footer"/>
