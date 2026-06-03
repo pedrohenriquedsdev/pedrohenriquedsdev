@@ -26,6 +26,7 @@ public class PedroHenrique : BackendDeveloper
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" alt="C#" title="C#"/>
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" alt=".NET" title=".NET"/>
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" title="Python"/>
+  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap" title="Bootstrap"/>
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" title="Git"/>
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" title="GitHub"/>
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" alt="Visual Studio" title="Visual Studio"/>
