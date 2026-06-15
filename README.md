@@ -10,7 +10,7 @@
 public class PedroHenrique : FullStackDeveloper
 {
     public string[]  FocusIn2026  => ["System Architecture", ".NET Ecosystem", "Scalable APIs", "Responsive UIs"];
-    public string[]  MainStack    => ["C#", ".NET", "Python", "HTML", "CSS", "Bootstrap", "JavaScript"];
+    public string[]  MainStack    => ["C#", ".NET", "Python", "HTML", "CSS", "Bootstrap", "JavaScript", "SQL", "MySQL"];
     public string[]  Tools        => ["Git", "GitHub", "Visual Studio", "VS Code"];
     public string    CurrentGoal  => "Build robust, clean and scalable full stack systems 🚀";
 }
@@ -30,6 +30,7 @@ public class PedroHenrique : FullStackDeveloper
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS" title="CSS"/>
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" title="JavaScript"/>
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap" title="Bootstrap"/>
+  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL" title="MySQL"/>
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" title="Git"/>
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" title="GitHub"/>
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" alt="Visual Studio" title="Visual Studio"/>
