@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=008B8B&section=header"/>
-
 ---
-
 <div align="center">
   <h2>👨‍💻 About Me</h2>
 </div>
@@ -10,16 +8,14 @@
 public class PedroHenrique : FullStackDeveloper
 {
     public string[]  FocusIn2026  => ["System Architecture", ".NET Ecosystem", "Scalable APIs", "Responsive UIs"];
-    public string[]  MainStack    => ["C#", ".NET", "Python", "HTML", "CSS", "Bootstrap", "JavaScript", "SQL", "MySQL"];
+    public string[]  MainStack    => ["C#", ".NET", "Python", "HTML", "CSS", "Bootstrap", "JavaScript", "SQL", "SQL Server"];
     public string[]  Tools        => ["Git", "GitHub", "Visual Studio", "VS Code"];
     public string    CurrentGoal  => "Build robust, clean and scalable full stack systems 🚀";
 }
 ```
-
 <br>
 
 ---
-
 <div align="center">
   <h2>🛠️ Tech Stack</h2>
   <br>
@@ -30,27 +26,23 @@ public class PedroHenrique : FullStackDeveloper
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS" title="CSS"/>
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" title="JavaScript"/>
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap" title="Bootstrap"/>
-  <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="MySQL" title="MySQL"/>
+  <img width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server"/>
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" title="Git"/>
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" title="GitHub"/>
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" alt="Visual Studio" title="Visual Studio"/>
   <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="VS Code" title="VS Code"/>
 </div>
-
 <br>
 
 ---
-
 <div align="center">
   <h2>📊 Contribution Graph</h2>
   <br>
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=pedrohenriquedsdev&theme=tokyo-night&hide_border=true&area=true&color=00FFFF&line=008B8B&point=00FFFF" alt="Contribution Graph"/>
 </div>
-
 <br>
 
 ---
-
 <div align="center">
   <h2>🌐 Connect with me</h2>
   <br>
@@ -61,7 +53,6 @@ public class PedroHenrique : FullStackDeveloper
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FFFF"/>
   </a>
 </div>
-
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=008B8B&section=footer"/>
