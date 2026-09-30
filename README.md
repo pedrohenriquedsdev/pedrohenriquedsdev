@@ -1,85 +1,165 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364&section=header&text=Pedro%20Henrique&fontSize=42&fontColor=00FFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20.NET%20Ecosystem&descAlignY=55&descSize=18&descColor=E0FFFF"/>
-
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Building+robust+.NET+systems+%F0%9F%9A%80;System+Architecture+%26+Scalable+APIs;Clean+Code+%7C+Clean+Architecture;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:083344,50:0E7490,100:06B6D4&height=230&section=header&text=Pedro%20Henrique%20dos%20Santos&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Fullstack%20Software%20Developer%20%E2%80%A2%20C%23%20%E2%80%A2%20TypeScript%20%E2%80%A2%20.NET&descAlignY=57&descSize=18" width="100%" alt="header"/>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=pedrohenriquedsdev&color=00FFFF&style=for-the-badge&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/pedrohenriquedsdev?style=for-the-badge&color=008B8B&labelColor=0F2027&logo=github&logoColor=00FFFF"/>
-
-</div>
-
-<br>
-
-## 👨‍💻 About Me
-
-```csharp
-public class PedroHenrique : FullStackDeveloper
-{
-    public string[] FocusIn2026    => ["System Architecture", ".NET Ecosystem", "Scalable APIs", "Responsive UIs"];
-    public string[] MainStack      => ["C#", ".NET", "Python", "HTML", "CSS", "Bootstrap", "JavaScript", "SQL", "SQL Server"];
-    public string[] DataAccess     => ["Entity Framework Core", "Dapper"];
-    public string[] Testing        => ["MSTest", "Unit", "Integration", "Application", "E2E"];
-    public string[] Tools          => ["Git", "GitHub", "Visual Studio", "VS Code", ".NET MAUI"];
-    public string   CurrentGoal    => "Build robust, clean, scalable and fully tested full stack systems 🚀";
-}
-```
-
-<br>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img width="52" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" alt="C#" title="C#"/>
-<img width="52" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" alt=".NET" title=".NET"/>
-<img width="52" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" title="Python"/>
-<img width="52" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" title="HTML"/>
-<img width="52" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="CSS" title="CSS"/>
-<img width="52" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" title="JavaScript"/>
-<img width="52" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="Bootstrap" title="Bootstrap"/>
-<img width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server"/>
-<img width="52" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" title="Git"/>
-<img width="52" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="GitHub" title="GitHub"/>
-<img width="52" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" alt="Visual Studio" title="Visual Studio"/>
-<img width="52" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="VS Code" title="VS Code"/>
-
-<br><br>
-
-`.NET MAUI` &nbsp;•&nbsp; `Entity Framework Core` &nbsp;•&nbsp; `Dapper` &nbsp;•&nbsp; `MSTest`
-
-</div>
-
-<br>
-
-## 🎯 Focus Areas
-
-<div align="center">
-
-![System Architecture](https://img.shields.io/badge/System_Architecture-0F2027?style=for-the-badge&logo=serverless&logoColor=00FFFF)
-![Scalable APIs](https://img.shields.io/badge/Scalable_APIs-203A43?style=for-the-badge&logo=fastapi&logoColor=00FFFF)
-![Clean Code](https://img.shields.io/badge/Clean_Code-2C5364?style=for-the-badge&logo=codefactor&logoColor=00FFFF)
-![Automated Testing](https://img.shields.io/badge/Automated_Testing-0F2027?style=for-the-badge&logo=testinglibrary&logoColor=00FFFF)
-
-</div>
-
-<br>
-
-## 🌐 Connect with me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/pedrohenriqueds-dev/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/pedrohenriquedsdev">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FFFF"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=Desenvolvedor+Fullstack+no+ecossistema+Microsoft;Fullstack+Developer+in+the+Microsoft+ecosystem;APIs+robustas+com+C%23+%26+.NET;Interfaces+modernas+com+Angular+%26+TypeScript;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=pedrohenriquedsdev&style=for-the-badge&color=0E7490&labelColor=0B1220&label=VISITAS%20%2F%20VIEWS" alt="visitas"/>
+<img src="https://img.shields.io/github/followers/pedrohenriquedsdev?style=for-the-badge&logo=github&color=0E7490&labelColor=0B1220" alt="seguidores"/>
+<img src="https://img.shields.io/github/stars/pedrohenriquedsdev?style=for-the-badge&logo=github&color=0E7490&labelColor=0B1220" alt="stars"/>
+
 </div>
 
-<br>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:2C5364,50:203A43,100:0F2027&section=footer"/>
+## 👨‍💻 Sobre mim · About me
+
+<details open>
+<summary><b>🇧🇷 Português</b></summary>
+<br/>
+
+- 💙 **Fullstack Software Developer** com foco no **ecossistema Microsoft**: **C#**, **.NET** e **TypeScript**
+- 🔭 Construo **APIs com ASP.NET Core** e **aplicações SPA com Angular**
+- 🎓 Cursando **Sistemas de Informação** (previsão 2028) e formado pela **Academia do Programador** (2026)
+- 🧪 Interesse em **testes automatizados, mensageria (RabbitMQ) e arquitetura de software**
+- 🧭 Explorando também **Rust, C++, Kotlin e Python** para ampliar a visão de engenharia
+- 💬 Pergunte-me sobre: **C#, .NET, Angular, TypeScript, RabbitMQ, Docker**
+
+</details>
+
+<details open>
+<summary><b>🇺🇸 English</b></summary>
+<br/>
+
+- 💙 **Fullstack Software Developer** focused on the **Microsoft ecosystem**: **C#**, **.NET** and **TypeScript**
+- 🔭 I build **APIs with ASP.NET Core** and **SPAs with Angular**
+- 🎓 Studying **Information Systems** (expected 2028) and graduated from **Academia do Programador** (2026)
+- 🧪 Interested in **automated testing, messaging (RabbitMQ) and software architecture**
+- 🧭 Also exploring **Rust, C++, Kotlin and Python** to broaden my engineering perspective
+- 💬 Ask me about: **C#, .NET, Angular, TypeScript, RabbitMQ, Docker**
+
+</details>
+
+---
+
+## 🛠️ Stack de Tecnologias · Tech Stack
+
+### 🧠 Linguagens · Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,ts,js,cpp,rust,kotlin,py,html,css&theme=dark" alt="linguagens"/>
+</p>
+
+### 🔷 Back-end · .NET & C#
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,fastapi,flask,django,graphql,swagger&theme=dark" alt="backend"/>
+</p>
+
+> **Frameworks & bibliotecas C# · C# frameworks & libraries:**
+> ASP.NET Core · Minimal APIs · Entity Framework Core · Dapper · Blazor · SignalR · gRPC · MediatR · AutoMapper · FluentValidation · MassTransit · Serilog · Polly · Hangfire · YARP
+
+### 🎨 Front-end
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,bootstrap,tailwind,react,vue,nextjs,redux&theme=dark" alt="frontend"/>
+</p>
+
+### 📱 Mobile & Sistemas · Mobile & Systems
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,rust,cpp&theme=dark" alt="mobile e sistemas"/>
+</p>
+
+### 🗄️ Bancos de Dados · Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,elasticsearch,firebase,supabase,prisma&theme=dark" alt="databases"/>
+</p>
+
+### 📨 Mensageria · Messaging
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rabbitmq,kafka&theme=dark" alt="mensageria"/>
+</p>
+
+### 🧪 Testes · Testing
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jest,vitest,cypress,selenium,postman&theme=dark" alt="testes"/>
+</p>
+
+> **Testes em C# · C# testing:** xUnit · NUnit · MSTest · Moq · NSubstitute · FluentAssertions · Bogus · Testcontainers
+
+### ☁️ Cloud, DevOps & Infra
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,githubactions,git,github,gitlab,nginx,linux,terraform,grafana,prometheus&theme=dark" alt="devops"/>
+</p>
+
+### 🧰 Ferramentas · Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rider,idea,androidstudio,postman,figma,notion,powershell,bash&theme=dark" alt="ferramentas"/>
+</p>
+
+---
+
+## 🏛️ Arquitetura & Práticas · Architecture & Practices
+
+`Clean Architecture` · `DDD` · `CQRS` · `Event-Driven` · `Microservices` · `REST APIs` · `SOLID` · `Design Patterns` · `TDD` · `CI/CD` · `Scrum / Kanban`
+
+---
+
+## 🎓 Formação · Education
+
+| 🎓 Curso · Course | 🏫 Status |
+|---|---|
+| **Sistemas de Informação** · *Information Systems* | Previsão · *Expected* **2028** |
+| **Academia do Programador** · *Programmer Academy* | **2026** |
+
+---
+
+## 📊 Estatísticas do GitHub · GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=pedrohenriquedsdev&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&bg_color=0B1220&title_color=22D3EE&icon_color=06B6D4&text_color=CBD5E1&border_color=155E75" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquedsdev&layout=compact&langs_count=8&hide_border=false&bg_color=0B1220&title_color=22D3EE&text_color=CBD5E1&border_color=155E75" alt="top langs"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrohenriquedsdev&background=0B1220&border=155E75&ring=06B6D4&fire=22D3EE&currStreakNum=E2E8F0&currStreakLabel=22D3EE&sideNums=E2E8F0&sideLabels=94A3B8&dates=64748B" alt="streak"/>
+
+<br/>
+
+## 📫 Vamos conversar? · Let's connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pedrohenriqueds-dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="56" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/pedrohenrique.tech" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="56" alt="Instagram"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/pedrohenriquedsdev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="56" alt="GitHub"/>
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:083344,50:0E7490,100:06B6D4&height=120&section=footer" width="100%" alt="footer"/>
+
+<div align="center">
+  <sub>⭐ Gostou do perfil? Deixe uma estrela nos meus repositórios! · Like the profile? Leave a star on my repos!</sub>
+</div>
