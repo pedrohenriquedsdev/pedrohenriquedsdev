@@ -27,7 +27,7 @@
 - 🔭 Construo **APIs com ASP.NET Core** e **aplicações SPA com Angular**
 - 🎓 Cursando **Sistemas de Informação** (previsão 2028) e formado pela **Academia do Programador** (2026)
 - 🧪 Interesse em **testes automatizados, mensageria (RabbitMQ) e arquitetura de software**
-- 🧭 Explorando também **Rust, C++, Kotlin e Python** para ampliar a visão de engenharia
+- 🧭 Explorando também **C, C++, Rust, Kotlin e Python** para ampliar a visão de engenharia
 - 💬 Pergunte-me sobre: **C#, .NET, Angular, TypeScript, RabbitMQ, Docker**
 
 </details>
@@ -40,7 +40,7 @@
 - 🔭 I build **APIs with ASP.NET Core** and **SPAs with Angular**
 - 🎓 Studying **Information Systems** (expected 2028) and graduated from **Academia do Programador** (2026)
 - 🧪 Interested in **automated testing, messaging (RabbitMQ) and software architecture**
-- 🧭 Also exploring **Rust, C++, Kotlin and Python** to broaden my engineering perspective
+- 🧭 Also exploring **C, C++, Rust, Kotlin and Python** to broaden my engineering perspective
 - 💬 Ask me about: **C#, .NET, Angular, TypeScript, RabbitMQ, Docker**
 
 </details>
@@ -52,7 +52,7 @@
 ### 🧠 Linguagens · Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,ts,js,cpp,rust,kotlin,py,html,css&theme=light" alt="linguagens"/>
+  <img src="https://skillicons.dev/icons?i=cs,ts,js,c,cpp,rust,kotlin,py,html,css&theme=light" alt="linguagens"/>
 </p>
 
 ### 🔷 Back-end · .NET & C#
@@ -73,7 +73,7 @@
 ### 📱 Mobile & Sistemas · Mobile & Systems
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,rust,cpp&theme=light" alt="mobile e sistemas"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,rust,c,cpp&theme=light" alt="mobile e sistemas"/>
 </p>
 
 ### 🗄️ Bancos de Dados · Databases
