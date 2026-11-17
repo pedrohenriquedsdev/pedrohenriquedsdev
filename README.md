@@ -129,8 +129,8 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=pedrohenriquedsdev&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&bg_color=F5EFE0&title_color=8B6B3E&icon_color=A67C52&text_color=4A3B2A&border_color=D2B48C" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquedsdev&layout=compact&langs_count=8&hide_border=false&bg_color=F5EFE0&title_color=8B6B3E&text_color=4A3B2A&border_color=D2B48C" alt="top langs"/>
+<img height="180" src="./profile/stats.svg" alt="stats"/>
+<img height="180" src="./profile/top-langs.svg" alt="top langs"/>
 
 <br/>
 
