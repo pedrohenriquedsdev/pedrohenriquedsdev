@@ -129,7 +129,6 @@
 
 <div align="center">
 
-<img height="180" src="./profile/stats.svg" alt="stats"/>
 <img height="180" src="./profile/top-langs.svg" alt="top langs"/>
 
 <br/>
